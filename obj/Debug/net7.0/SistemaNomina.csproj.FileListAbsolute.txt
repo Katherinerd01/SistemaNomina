@@ -1,0 +1,14 @@
+C:\Users\ana_m\OneDrive\Documentos\Polimorfismo\SistemaNomina\SistemaNomina\bin\Debug\net7.0\SistemaNomina.exe
+C:\Users\ana_m\OneDrive\Documentos\Polimorfismo\SistemaNomina\SistemaNomina\bin\Debug\net7.0\SistemaNomina.deps.json
+C:\Users\ana_m\OneDrive\Documentos\Polimorfismo\SistemaNomina\SistemaNomina\bin\Debug\net7.0\SistemaNomina.runtimeconfig.json
+C:\Users\ana_m\OneDrive\Documentos\Polimorfismo\SistemaNomina\SistemaNomina\bin\Debug\net7.0\SistemaNomina.dll
+C:\Users\ana_m\OneDrive\Documentos\Polimorfismo\SistemaNomina\SistemaNomina\bin\Debug\net7.0\SistemaNomina.pdb
+C:\Users\ana_m\OneDrive\Documentos\Polimorfismo\SistemaNomina\SistemaNomina\obj\Debug\net7.0\SistemaNomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana_m\OneDrive\Documentos\Polimorfismo\SistemaNomina\SistemaNomina\obj\Debug\net7.0\SistemaNomina.AssemblyInfoInputs.cache
+C:\Users\ana_m\OneDrive\Documentos\Polimorfismo\SistemaNomina\SistemaNomina\obj\Debug\net7.0\SistemaNomina.AssemblyInfo.cs
+C:\Users\ana_m\OneDrive\Documentos\Polimorfismo\SistemaNomina\SistemaNomina\obj\Debug\net7.0\SistemaNomina.csproj.CoreCompileInputs.cache
+C:\Users\ana_m\OneDrive\Documentos\Polimorfismo\SistemaNomina\SistemaNomina\obj\Debug\net7.0\SistemaNomina.dll
+C:\Users\ana_m\OneDrive\Documentos\Polimorfismo\SistemaNomina\SistemaNomina\obj\Debug\net7.0\refint\SistemaNomina.dll
+C:\Users\ana_m\OneDrive\Documentos\Polimorfismo\SistemaNomina\SistemaNomina\obj\Debug\net7.0\SistemaNomina.pdb
+C:\Users\ana_m\OneDrive\Documentos\Polimorfismo\SistemaNomina\SistemaNomina\obj\Debug\net7.0\SistemaNomina.genruntimeconfig.cache
+C:\Users\ana_m\OneDrive\Documentos\Polimorfismo\SistemaNomina\SistemaNomina\obj\Debug\net7.0\ref\SistemaNomina.dll
